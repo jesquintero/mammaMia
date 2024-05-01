@@ -56,13 +56,13 @@
     font-weight: bold;
 }
 
-.see-more {
+.ver-mas {
     text-decoration: none;
     background-color: #0acbf1;
     color: white;
 }
 
-.see-more:hover {
+.ver-mas:hover {
     background-color: #01a949 !important;
     color: white;
 }
@@ -122,6 +122,10 @@
 .card-button {
     display: flex;
     justify-content: space-around;
+}
+
+.pizza-detalle {
+    margin-top: 7em;
 }
 
 .error {

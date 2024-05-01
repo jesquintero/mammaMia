@@ -28,7 +28,7 @@ const PizzaCard = ({pizza, localCurrency, addToCarrito}) => {
         <Card.Body className='card-button'>
           <button
               onClick={() => {navigate(`/pizza/${pizza.id}`);}}
-              className='btn see-more'>
+              className='btn ver-mas'>
               Ver más
           </button>
           <button
