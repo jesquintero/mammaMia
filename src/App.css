@@ -1,0 +1,125 @@
+.bg-primary {
+    background-color: #0acbf1 !important;
+}
+
+.Navbar-brand {
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.Navbar-brand:hover {
+    color: white;
+}
+
+.jumbotron {
+    height: 17em;
+    color: white;
+    display: flex;
+}
+
+.header-content {
+    margin-top: 8em;
+}
+
+.nombre-pizza {
+    text-transform: capitalize;
+    font-size: x-large;
+}
+
+.pizza-list {
+    list-style: none;
+    text-transform: capitalize;
+}
+
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-left: 16rem;
+    margin-right: 16rem;
+}
+
+.card-style {
+    width: 18rem;
+}
+
+.moneda {
+    font-size: 21pt;
+    text-align: center;
+}
+
+.moneda-dos {
+    font-size: 21pt;
+    text-align: center;
+    padding-top: .8rem;
+    font-weight: bold;
+}
+
+.see-more {
+    text-decoration: none;
+    background-color: #0acbf1;
+    color: white;
+}
+
+.see-more:hover {
+    background-color: #01a949 !important;
+    color: white;
+}
+
+.carrito {
+    font-size: 25px;
+}
+
+.carrito-total {
+    color: white;
+    text-decoration: none;
+}
+
+.add-to-cart {
+    text-decoration: none;
+    background-color: #dc3545;
+    color: white;
+}
+
+.add-to-cart:hover {
+    background-color: #01a949 !important;
+    color: white;
+}
+
+.total-pago {
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.cart-total {
+    font-size: 18pt;
+    font-weight: bold;
+    color: white;
+}
+
+.cart-total:hover {
+    color: white;
+}
+
+.btn-pagar {
+    color: white;
+}
+
+.btn-pagar:hover {
+    color: white;
+    background-color: #01a949 !important;
+}
+
+.cart-resume {
+    padding: 2rem;
+    margin-top: 6rem;
+    margin-left: 20rem;
+    margin-right: 20rem;
+    background-color: #f8f9fa;
+}
+
+.card-button {
+    display: flex;
+    justify-content: space-around;
+}
